@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>我的第一篇博客</title>
-    <url>/2025/06/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[check check! It can work. Great!
-]]></content>
-      <categories>
-        <category>杂食</category>
-      </categories>
-      <tags>
-        <tag>nothing</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2025/Sep record</title>
     <url>/2025/06/01/25_9/</url>
     <content><![CDATA[📖 BOOK LIST:📖 《诸神愚戏》
@@ -36,6 +24,18 @@
       </categories>
       <tags>
         <tag>碎片记录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的第一篇博客</title>
+    <url>/2025/06/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[check check! It can work. Great!
+]]></content>
+      <categories>
+        <category>杂食</category>
+      </categories>
+      <tags>
+        <tag>nothing</tag>
       </tags>
   </entry>
 </search>
